@@ -1,0 +1,2 @@
+# Matrice de validation manuelle (à exécuter en VM)
+Pour Ubuntu 22.04, 24.04 et 26.04 : vérifier versions, service/socket, ajout de clé, connexion indépendante, changement de port, restriction IP, refus de mot de passe, restauration après expiration du délai, restauration manuelle et redémarrage. Vérifier aussi les fichiers Include et Match existants. Documenter chaque résultat et les journaux. Aucun de ces essais d'intégration n'a été réalisé lors de la préparation du dépôt.
